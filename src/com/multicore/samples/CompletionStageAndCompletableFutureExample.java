@@ -16,7 +16,6 @@ import com.multicore.samples.ListOperations.TaskTime;
 public class CompletionStageAndCompletableFutureExample {
 
 	public static void main(String[] args) throws InterruptedException, ExecutionException {
-
 		executeInParalellMode();
 		executeInSingleThreadMode();
 	}
