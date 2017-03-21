@@ -1,0 +1,5 @@
+System.out.println(
+		java.time.Duration.between(java.time.Instant.parse("2017-03-19T17:38:31.379Z"),
+				java.time.Instant.parse("2017-03-19T17:38:59.526Z")).toMillis())
+
+System.out.println(java.util.GregorianCalendar.getInstance().);				
